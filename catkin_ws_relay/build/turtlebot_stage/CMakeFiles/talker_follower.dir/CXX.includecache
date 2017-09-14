@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/talker_follower.cpp
+ros/ros.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/ros/ros.h
+sensor_msgs/LaserScan.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/sensor_msgs/LaserScan.h
+geometry_msgs/Twist.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/geometry_msgs/Twist.h
+math.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/math.h
+stdio.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/stdio.h
+

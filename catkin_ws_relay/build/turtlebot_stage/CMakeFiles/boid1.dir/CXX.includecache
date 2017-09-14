@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/boid1.cpp
+ros/ros.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/ros/ros.h
+sensor_msgs/LaserScan.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/sensor_msgs/LaserScan.h
+geometry_msgs/Twist.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/geometry_msgs/Twist.h
+geometry_msgs/Vector3.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/geometry_msgs/Vector3.h
+nav_msgs/Odometry.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/nav_msgs/Odometry.h
+math.h
+/home/exbot/catkin_ws_relay/src/turtlebot_stage/src/math.h
+

@@ -1,0 +1,2 @@
+turtlebot_stage
+-DCATKIN_DEVEL_PREFIX=/home/exbot/catkin_ws_relay/devel -DCMAKE_INSTALL_PREFIX=/home/exbot/catkin_ws_relay/install -G Unix Makefiles

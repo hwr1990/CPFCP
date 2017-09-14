@@ -1,0 +1,8 @@
+prefix=/home/exbot/catkin_ws_relay/devel
+
+Name: turtlebot_stage
+Description: Description of turtlebot_stage
+Version: 2.2.2
+Cflags: -I/home/exbot/catkin_ws_relay/devel/include
+Libs: -L/home/exbot/catkin_ws_relay/devel/lib 
+Requires: message_runtime

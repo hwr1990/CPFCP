@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/exbot/catkin_ws_relay/install/setup.sh
